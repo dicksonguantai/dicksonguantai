@@ -22,7 +22,7 @@ Feel free to explore my repositories, where you'll find a mix of projects showca
 
 1. [**Chrisco Church Website**](https://chrisco-church-frontend.vercel.app/): An intuitive weather application built with React, providing real-time weather updates and forecasts.
 
-2. [**Honter**](link-to-laravel-secure-blog): A secure and feature-rich house hunting application developed with React js and Python(Flask)
+2. [**Hounter**](link-to-laravel-secure-blog): A secure and feature-rich house hunting application developed with React js and Python(Flask)
 
 
 ## Get in Touch
