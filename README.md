@@ -30,7 +30,6 @@ Feel free to explore my repositories, where you'll find a mix of projects showca
 I'm always open to collaboration, discussions, and learning opportunities. If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
 - Email: dicksonguantai@gmail.com
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/guantai-dickson-729818123/)
 
 Let's code, collaborate, and build amazing things together! 🚀
